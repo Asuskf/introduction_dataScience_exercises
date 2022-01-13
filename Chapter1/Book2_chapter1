@@ -1,0 +1,1 @@
+Query: SELECT account_type, count(*) FROM account group by account_type;
